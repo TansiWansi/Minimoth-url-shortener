@@ -1,0 +1,13 @@
+{
+  "name": "url-shortener-backend",
+  "version": "1.0.0",
+  "description": "URL Shortener backend — Express + SQLite + Minimoth OTP auth",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
